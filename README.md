@@ -5,8 +5,8 @@ Given clinical parameter about a pateint, can we predict wheter or not they have
 
 ## Data 
 
-Data is taken from UCI and is also available on Kaggle or is attached
-Link : https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
+* Data is taken from UCI and is also available on Kaggle or is attached
+* Link : https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
 ## Evaluation 
 
