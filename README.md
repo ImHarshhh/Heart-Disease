@@ -1,18 +1,18 @@
 # Heart-Disease
 
-# Problem Defination
+## Problem Defination
 Given clinical parameter about a pateint, can we predict wheter or not they have heart disese
 
-# Data 
+## Data 
 
 Data is taken from UCI and is also available on Kaggle or is attached
 Link : https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
-# Evaluation 
+## Evaluation 
 
 If we can reach 95% accuracy in cheacking wheter the patient has heart disease or not during the proof of concept , we will purse the project
 
-# Features
+## Features
 
 Description of each data or column of the data
 
